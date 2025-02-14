@@ -168,10 +168,6 @@
 })();
 
 const content = [
-  { 
-    heading: "Smart Fleet Management for Optimized Logistics & Efficiency",
-    para: "Revolutionizing fleet operations with IoT-powered tracking, predictive maintenance, and fuel optimization. Our solutions enhance real-time visibility, reduce operational costs, and improve overall fleet efficiency for smarter transportation management."
-  },
   {
     heading: "Full-Stack IoT Development for Embedded Systems & Digital Innovation",
     para: "Empowering businesses with cutting-edge IoT, embedded technology, and digital transformation solutions. We help organizations design and deploy smart products and automation tools that enhance efficiency, scalability, and real-time decision-making."
